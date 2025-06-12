@@ -17,5 +17,5 @@ ESP32-S3 USB-OTG 지원: ESP32-S3는 USB2.0 풀 스피드를 지원한다.
 # 참고 자료
 
 [AViCDEsp32 : notion](https://kimcastleowner.notion.site/AViCDEsp32-20f2a69ddfde80878ec1d9f6c206afdb?source=copy_link)  
-[Esp32-s3에서 USB-OTG로 코딩하는 방법 : tistory](https://kimsj5025.tistory.com/entry/Esp32-s3에서-USB-OTG로-코딩-하는-방법에-관하여) (다만 이는 수정이 좀 필요하다)  
+[Esp32-s3에서 USB-OTG로 코딩하는 방법 : tistory](https://kimsj5025.tistory.com/entry/Esp32-s3에서-USB-OTG로-코딩-하는-방법에-관하여)  
 [400Ns High-power 로켓모터 개발일지 : 아직 발사 안했는데..(4) : tistory](https://kimsj5025.tistory.com/entry/400Ns-High-power-로켓모터-개발일지-아직-발사-안했는데3)  
